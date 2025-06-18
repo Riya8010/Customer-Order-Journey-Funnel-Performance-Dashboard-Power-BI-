@@ -48,6 +48,9 @@ This dashboard provides business users and decision-makers a real-time overview 
 ⭐ Review Scores show majority of customers rate their experience 4 or 5, indicating strong satisfaction levels.
 
 7. Screenshots
-   
+Dashboard View-
+( Page1 )   https://github.com/Riya8010/Customer-Order-Journey-Funnel-Performance-Dashboard-Power-BI-/blob/main/Customer%20Order%20Journey%20%26%20Funnel%20Performance%20Dashboard%20Snapshot.png
+
+( Page2 )  https://github.com/Riya8010/Customer-Order-Journey-Funnel-Performance-Dashboard-Power-BI-/blob/main/Delivery%20Performance%20Insights%20Snapshot.png
 
 
